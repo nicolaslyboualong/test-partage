@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/nicolaslyboualong/test-partage#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
